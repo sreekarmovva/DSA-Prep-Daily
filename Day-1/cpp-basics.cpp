@@ -1,4 +1,5 @@
-#include <bits/stdc++.h>
+
+/*#include <bits/stdc++.h>
 using namespace std;
 // basic program for if else statement
 int main()
@@ -14,4 +15,13 @@ int main()
         cout << "Eligible";
     }
     return 0;
+}*/
+
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    cout << "My name is Sreekar" << endl;
+    cout << "I am learning C++" << endl;
+    cout << "I want to master DSA" << endl;
 }
